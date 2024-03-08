@@ -12,4 +12,9 @@ Python, SQL (MS SQL Server, Postgres, MySQL), BigQuery, Tableau, Looker Studio, 
 
 ### 📂 Project Portofolio
 
-[Projects 🗃️](https://github.com/hilmanman92/Data-Science-Project)
+- [Projects 🗃️](https://github.com/hilmanman92/Data-Science-Project)
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ahilmans92/)
+- [Tableau Public](https://public.tableau.com/app/profile/hilman2959/vizzes)
